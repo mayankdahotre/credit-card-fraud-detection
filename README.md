@@ -62,6 +62,7 @@ This project builds an end-to-end machine learning pipeline to detect fraudulent
 
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Launch dashboard: `streamlit run dashboard.py`
+3. Download the dataset from Kaggle and place `creditcard.csv` in the root project folder from `https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data`
+4. Launch dashboard: `streamlit run dashboard.py`
 
 ---
